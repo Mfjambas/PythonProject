@@ -1,3 +1,4 @@
+#grava e lê um arquivo texto
 arquivo = open('arqText.txt', 'w')
 
 arquivo.write('Curso Python \n')
